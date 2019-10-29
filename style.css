@@ -293,3 +293,7 @@ a p{
     background-color: green;
     border-radius: 20px;
 }
+#reset:hover{
+    background-color: blue;
+    color: white;
+}
